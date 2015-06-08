@@ -1,4 +1,7 @@
 
 This is a test file
 
-This file was created on gitHub for the remoteexample repository
+This file was created on gitHub for the remoteexample repository.
+
+A new line added within the local master branch.
+

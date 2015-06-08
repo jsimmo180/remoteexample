@@ -1,0 +1,6 @@
+
+This is a new file added to the local master branch.
+
+A new text file.
+
+Make an amendment to this file, so the remote branch will now be two changes behind.
